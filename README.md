@@ -1,6 +1,8 @@
 # DesafioParada10
 Esse é um modelo do desafio da parada 10 para os alunos da Kick.
 
+Equipe: aluno 1 e 2 
+
 ### esta é a primeira seção do meu site
 ![hero](https://user-images.githubusercontent.com/24756809/169302677-c6c19c17-cfb1-4fa2-8582-48270ebd9c81.png)
 
